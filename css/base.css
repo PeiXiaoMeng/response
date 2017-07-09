@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+img{
+    cursor:pointer;
+}
+li{
+    list-style:none;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.cs{
+    cursor: pointer;
+}
